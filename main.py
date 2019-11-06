@@ -1,7 +1,7 @@
-pessoaNome = "Regis"
+pessoaNome = input("Nome da pessoa:")
 
-a = 1 
-b = 2 
+a = input("primeiro numero:") 
+b = input("segundo numero:") 
 
 #variavel para soma de 2 numeros
 soma = a +b
